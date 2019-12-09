@@ -1,9 +1,6 @@
 #! /usr/bin/python
 # -*- coding: utf-8 -*-
 
-# Клонирует проект из GitLab, рекурсивно вставляет в начало файла заголовок для
-# бесплатной версии PVS-Studio, перекомпилирует проект и запускает PVS-Studio
-
 import os
 import sys
 import fnmatch
